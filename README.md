@@ -1,7 +1,7 @@
 # MazeRunner
-An educational project to realize a maze generator and learn the A* algorithm.
+An educational project to realize a maze generator and to learn the A* algorithm.
 
-This program basically generate a maze and then finds the way out. You can play with the code to better understand how it works and you can have fun watching it.
+Basically this program generates a maze and finds the way out. You can play with the code for a better understanding of its working and you can enjoy yourself watching it.
 
 The algorythms used for this project are based on the relative projects from CodingTrain.
 
